@@ -1,0 +1,9 @@
+unset count
+for number in {1..4} ;
+do 
+  for animal in cat dog llama
+    do
+     count=$((count+1)) # or ((count+=1)) or ((count++))
+     echo -e "${count}\t${number}\t${animal}"
+    done
+done
