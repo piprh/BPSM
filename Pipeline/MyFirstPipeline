@@ -1,1 +1,4 @@
-fastqc fastq/*fq.gz
+#Remove previously made files
+rm -r /fastqc_out/*fastqc*
+#QC check on one pair of reads
+fastqc -o fastqc_out fastq/Tco-106*
