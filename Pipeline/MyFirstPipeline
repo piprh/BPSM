@@ -1,6 +1,11 @@
+#!/bin/bash
+
 #Length of each fastq file
 wc -l fastq/*.fq.gz
 #Remove previously made files
 rm -r fastqc_out/*fastqc*
-#QC check on one pair of reads
-fastqc -o fastqc_out fastq/Tco-106*
+#qc check on one pair of reads
+fastqc -o fastqc_out -t 3 fastq/Tco-106*
+
+#Unzip zipped output files
+unzip fastqc_out/\*.zip -d fastqc_out
