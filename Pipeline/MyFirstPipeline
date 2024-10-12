@@ -3,9 +3,34 @@
 #Length of each fastq file
 wc -l fastq/*.fq.gz
 #Remove previously made files
-rm -r fastqc_out/*fastqc*
+rm -fr fastqc_out/*fastqc*
+rm -fr passfail*
 #qc check on one pair of reads
 fastqc -o fastqc_out -t 3 fastq/Tco-106*
 
 #Unzip zipped output files
-unzip fastqc_out/\*.zip -d fastqc_out
+unzip -o fastqc_out/\*.zip -d fastqc_out
+
+
+ #print the pass/fail lines with file names
+find fastqc_out/*fastqc -type f -name "fastqc_data.txt" -exec grep -H "pass\|fail" {} \; >> passfail.txt
+
+#Extract gene names from output
+#cut -f2 -d "/" passfail.txt | cut -c1-9
+
+#Modifying passfail.txt
+#Setting correct delimiters
+while read -r line
+do
+        line="${line//>>/    }" #Separate file name and quality indicators
+	field1="${line%%:*}" #Take filename
+	rest_of_line="${line#*:}" #Take Measure and Pass/Fail
+	name="${field1:11:9}" #Extract name from filename
+	newline="${name}${rest_of_line}" #Combine new name with rest of line
+	echo ${newline}
+done < passfail.txt > passfailmod.txt #Pass that modification to a new file
+
+#Add column headers
+echo -e "Name\tMeasure\tPass_Fail
+$(cat passfailmod.txt)" > passfailmod.txt
+

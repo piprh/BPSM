@@ -1,0 +1,19 @@
+Name	Measure	Pass_Fail
+Tco-106_1 Basic Statistics pass
+Tco-106_1 Per base sequence quality pass
+Tco-106_1 Per sequence quality scores pass
+Tco-106_1 Per base sequence content fail
+Tco-106_1 Per sequence GC content pass
+Tco-106_1 Per base N content pass
+Tco-106_1 Sequence Length Distribution pass
+Tco-106_1 Sequence Duplication Levels pass
+Tco-106_1 Adapter Content pass
+Tco-106_2 Basic Statistics pass
+Tco-106_2 Per base sequence quality pass
+Tco-106_2 Per sequence quality scores pass
+Tco-106_2 Per base sequence content fail
+Tco-106_2 Per sequence GC content pass
+Tco-106_2 Per base N content pass
+Tco-106_2 Sequence Length Distribution pass
+Tco-106_2 Sequence Duplication Levels pass
+Tco-106_2 Adapter Content pass
