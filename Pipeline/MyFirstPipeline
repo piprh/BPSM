@@ -22,12 +22,17 @@ find fastqc_out/*fastqc -type f -name "fastqc_data.txt" -exec grep -H "pass\|fai
 #Setting correct delimiters
 while read -r line
 do
-        line="${line//>>/    }" #Separate file name and quality indicators
-	field1="${line%%:*}" #Take filename
-	rest_of_line="${line#*:}" #Take Measure and Pass/Fail
-	name="${field1:11:9}" #Extract name from filename
-	newline="${name}${rest_of_line}" #Combine new name with rest of line
-	echo ${newline}
+	#echo "We are working with ${line}"
+	field1="${line:11:9}"
+	#echo "Field1 is ${field1}"
+	field2temp="${line##*>>}" #Take measure + status
+	#echo "Field2temp is ${field2temp}"
+	field3="${field2temp#*	}" #Take status
+	#echo "Field3 is ${field3}"
+	field2="${field2temp%%	*}" #Take measure
+	#echo "Field2 is ${field2}"
+	newline="${field1}\t${field2}\t${field3}" #Combine all fields
+	echo "${newline}"
 done < passfail.txt > passfailmod.txt #Pass that modification to a new file
 
 #Add column headers
@@ -37,8 +42,8 @@ $(cat passfailmod.txt)" > passfailmod.txt
 
 ############################### Inspecting Problems ####################################################
 #Set/Unset variables
-count=0; fnr=0; IFS=$"\t"; 
-unset failed_sample
+unset IFS; unset failed_sample
+f_count=0; fnr=0; IFS=$'\t'; 
 declare -A failed_sample
 
 #Prompt failed samples
@@ -49,13 +54,20 @@ then
 	while read sample measure status
 	do
 		fnr=$((fnr + 1))
-		if test $status == "fail"
+		#echo "Line number: ${fnr}"
+		#echo "Sample is  ${sample} Measure is ${measure} Status is ${status}"
+		if test "${status}" == "fail" 
 		then
-			failed_sample[${f_count}]="${sample}\t${measure}\t${status}"
+			f_count=$((f_count + 1))
+			echo "Fail number: ${f_count}" 
+			failed_sample[${f_count}]="${sample}\t${measure}\t${status}" 
 		fi
 	done < passfailmod.txt #Finished reading lines checking for "fail"
 if test ${fnr} -eq ${inputfilelength}
 then
-	echo -e ${failed_sample} #sample x failed x modules
+	for each in "${failed_sample[@]}"
+	do
+	echo -e ${failed_sample} | sort | uniq -c | head #sample x failed x modules
+done #End return failed_sample array
 fi #End echo faile_sample array
 fi #End confirm by user
