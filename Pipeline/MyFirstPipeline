@@ -31,6 +31,31 @@ do
 done < passfail.txt > passfailmod.txt #Pass that modification to a new file
 
 #Add column headers
-echo -e "Name\tMeasure\tPass_Fail
+echo -e "Sample\tMeasure\tStatus
 $(cat passfailmod.txt)" > passfailmod.txt
 
+
+############################### Inspecting Problems ####################################################
+#Set/Unset variables
+count=0; fnr=0; IFS=$"\t"; 
+unset failed_sample
+declare -A failed_sample
+
+#Prompt failed samples
+read -p "Display failed modules? (Y/N) " confirm
+if [[ $confirm =~ ^[Yy]$ ]]
+then
+	#show lines in passfailmod.txt where third field is "fail"
+	while read sample measure status
+	do
+		fnr=$((fnr + 1))
+		if test $status == "fail"
+		then
+			failed_sample[${f_count}]="${sample}\t${measure}\t${status}"
+		fi
+	done < passfailmod.txt #Finished reading lines checking for "fail"
+if test ${fnr} -eq ${inputfilelength}
+then
+	echo -e ${failed_sample} #sample x failed x modules
+fi #End echo faile_sample array
+fi #End confirm by user

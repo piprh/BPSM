@@ -1,4 +1,4 @@
-Name	Measure	Pass_Fail
+Sample	Measure	Status
 Tco-106_1 Basic Statistics pass
 Tco-106_1 Per base sequence quality pass
 Tco-106_1 Per sequence quality scores pass
