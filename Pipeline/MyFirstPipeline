@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 
 #Length of each fastq file
 wc -l fastq/*.fq.gz
