@@ -17,3 +17,907 @@ Tco-106_2	Per base N content	pass
 Tco-106_2	Sequence Length Distribution	pass
 Tco-106_2	Sequence Duplication Levels	pass
 Tco-106_2	Adapter Content	pass
+Tco-122_1	Basic Statistics	pass
+Tco-122_1	Per base sequence quality	pass
+Tco-122_1	Per sequence quality scores	pass
+Tco-122_1	Per base sequence content	fail
+Tco-122_1	Per sequence GC content	pass
+Tco-122_1	Per base N content	pass
+Tco-122_1	Sequence Length Distribution	pass
+Tco-122_1	Sequence Duplication Levels	pass
+Tco-122_1	Overrepresented sequences	pass
+Tco-122_1	Adapter Content	pass
+Tco-122_2	Basic Statistics	pass
+Tco-122_2	Per base sequence quality	pass
+Tco-122_2	Per sequence quality scores	pass
+Tco-122_2	Per base sequence content	fail
+Tco-122_2	Per sequence GC content	pass
+Tco-122_2	Per base N content	pass
+Tco-122_2	Sequence Length Distribution	pass
+Tco-122_2	Sequence Duplication Levels	pass
+Tco-122_2	Overrepresented sequences	pass
+Tco-122_2	Adapter Content	pass
+Tco-159_1	Basic Statistics	pass
+Tco-159_1	Per base sequence quality	pass
+Tco-159_1	Per sequence quality scores	pass
+Tco-159_1	Per base sequence content	fail
+Tco-159_1	Per sequence GC content	pass
+Tco-159_1	Per base N content	pass
+Tco-159_1	Sequence Length Distribution	pass
+Tco-159_1	Sequence Duplication Levels	pass
+Tco-159_1	Overrepresented sequences	pass
+Tco-159_1	Adapter Content	pass
+Tco-159_2	Basic Statistics	pass
+Tco-159_2	Per base sequence quality	pass
+Tco-159_2	Per sequence quality scores	pass
+Tco-159_2	Per base sequence content	fail
+Tco-159_2	Per sequence GC content	pass
+Tco-159_2	Per base N content	pass
+Tco-159_2	Sequence Length Distribution	pass
+Tco-159_2	Sequence Duplication Levels	pass
+Tco-159_2	Overrepresented sequences	pass
+Tco-159_2	Adapter Content	pass
+Tco-160_1	Basic Statistics	pass
+Tco-160_1	Per base sequence quality	pass
+Tco-160_1	Per sequence quality scores	pass
+Tco-160_1	Per base sequence content	fail
+Tco-160_1	Per sequence GC content	pass
+Tco-160_1	Per base N content	pass
+Tco-160_1	Sequence Length Distribution	pass
+Tco-160_1	Sequence Duplication Levels	pass
+Tco-160_1	Overrepresented sequences	pass
+Tco-160_1	Adapter Content	pass
+Tco-160_2	Basic Statistics	pass
+Tco-160_2	Per base sequence quality	pass
+Tco-160_2	Per sequence quality scores	pass
+Tco-160_2	Per base sequence content	fail
+Tco-160_2	Per sequence GC content	pass
+Tco-160_2	Per base N content	pass
+Tco-160_2	Sequence Length Distribution	pass
+Tco-160_2	Sequence Duplication Levels	pass
+Tco-160_2	Overrepresented sequences	pass
+Tco-160_2	Adapter Content	pass
+Tco-17_1_	Basic Statistics	pass
+Tco-17_1_	Per base sequence quality	pass
+Tco-17_1_	Per sequence quality scores	pass
+Tco-17_1_	Per base sequence content	pass
+Tco-17_1_	Per base N content	pass
+Tco-17_1_	Sequence Length Distribution	pass
+Tco-17_1_	Sequence Duplication Levels	pass
+Tco-17_1_	Overrepresented sequences	pass
+Tco-17_1_	Adapter Content	pass
+Tco-17_2_	Basic Statistics	pass
+Tco-17_2_	Per base sequence quality	pass
+Tco-17_2_	Per sequence quality scores	pass
+Tco-17_2_	Per base sequence content	pass
+Tco-17_2_	Per base N content	pass
+Tco-17_2_	Sequence Length Distribution	pass
+Tco-17_2_	Sequence Duplication Levels	pass
+Tco-17_2_	Overrepresented sequences	pass
+Tco-17_2_	Adapter Content	pass
+Tco-182_1	Basic Statistics	pass
+Tco-182_1	Per base sequence quality	pass
+Tco-182_1	Per sequence quality scores	pass
+Tco-182_1	Per base sequence content	fail
+Tco-182_1	Per sequence GC content	pass
+Tco-182_1	Per base N content	pass
+Tco-182_1	Sequence Length Distribution	pass
+Tco-182_1	Sequence Duplication Levels	pass
+Tco-182_1	Overrepresented sequences	pass
+Tco-182_1	Adapter Content	pass
+Tco-182_2	Basic Statistics	pass
+Tco-182_2	Per base sequence quality	pass
+Tco-182_2	Per sequence quality scores	pass
+Tco-182_2	Per base sequence content	fail
+Tco-182_2	Per sequence GC content	pass
+Tco-182_2	Per base N content	pass
+Tco-182_2	Sequence Length Distribution	pass
+Tco-182_2	Sequence Duplication Levels	pass
+Tco-182_2	Overrepresented sequences	pass
+Tco-182_2	Adapter Content	pass
+Tco-21_1_	Basic Statistics	pass
+Tco-21_1_	Per base sequence quality	pass
+Tco-21_1_	Per sequence quality scores	pass
+Tco-21_1_	Per base sequence content	fail
+Tco-21_1_	Per sequence GC content	pass
+Tco-21_1_	Per base N content	pass
+Tco-21_1_	Sequence Length Distribution	pass
+Tco-21_1_	Sequence Duplication Levels	pass
+Tco-21_1_	Adapter Content	pass
+Tco-21_2_	Basic Statistics	pass
+Tco-21_2_	Per base sequence quality	pass
+Tco-21_2_	Per sequence quality scores	pass
+Tco-21_2_	Per base sequence content	fail
+Tco-21_2_	Per sequence GC content	pass
+Tco-21_2_	Per base N content	pass
+Tco-21_2_	Sequence Length Distribution	pass
+Tco-21_2_	Sequence Duplication Levels	pass
+Tco-21_2_	Adapter Content	pass
+Tco-229_1	Basic Statistics	pass
+Tco-229_1	Per base sequence quality	pass
+Tco-229_1	Per sequence quality scores	pass
+Tco-229_1	Per base sequence content	fail
+Tco-229_1	Per sequence GC content	pass
+Tco-229_1	Per base N content	pass
+Tco-229_1	Sequence Length Distribution	pass
+Tco-229_1	Sequence Duplication Levels	pass
+Tco-229_1	Overrepresented sequences	pass
+Tco-229_1	Adapter Content	pass
+Tco-229_2	Basic Statistics	pass
+Tco-229_2	Per base sequence quality	pass
+Tco-229_2	Per sequence quality scores	pass
+Tco-229_2	Per base sequence content	fail
+Tco-229_2	Per sequence GC content	pass
+Tco-229_2	Per base N content	pass
+Tco-229_2	Sequence Length Distribution	pass
+Tco-229_2	Sequence Duplication Levels	pass
+Tco-229_2	Overrepresented sequences	pass
+Tco-229_2	Adapter Content	pass
+Tco-230_1	Basic Statistics	pass
+Tco-230_1	Per base sequence quality	pass
+Tco-230_1	Per sequence quality scores	pass
+Tco-230_1	Per base sequence content	fail
+Tco-230_1	Per sequence GC content	pass
+Tco-230_1	Per base N content	pass
+Tco-230_1	Sequence Length Distribution	pass
+Tco-230_1	Sequence Duplication Levels	pass
+Tco-230_1	Adapter Content	pass
+Tco-230_2	Basic Statistics	pass
+Tco-230_2	Per base sequence quality	pass
+Tco-230_2	Per sequence quality scores	pass
+Tco-230_2	Per base sequence content	fail
+Tco-230_2	Per sequence GC content	pass
+Tco-230_2	Per base N content	pass
+Tco-230_2	Sequence Length Distribution	pass
+Tco-230_2	Sequence Duplication Levels	pass
+Tco-230_2	Adapter Content	pass
+Tco-28_1_	Basic Statistics	pass
+Tco-28_1_	Per base sequence quality	pass
+Tco-28_1_	Per sequence quality scores	pass
+Tco-28_1_	Per base sequence content	fail
+Tco-28_1_	Per sequence GC content	pass
+Tco-28_1_	Per base N content	pass
+Tco-28_1_	Sequence Length Distribution	pass
+Tco-28_1_	Sequence Duplication Levels	pass
+Tco-28_1_	Overrepresented sequences	pass
+Tco-28_1_	Adapter Content	pass
+Tco-28_2_	Basic Statistics	pass
+Tco-28_2_	Per base sequence quality	pass
+Tco-28_2_	Per sequence quality scores	pass
+Tco-28_2_	Per base sequence content	fail
+Tco-28_2_	Per sequence GC content	pass
+Tco-28_2_	Per base N content	pass
+Tco-28_2_	Sequence Length Distribution	pass
+Tco-28_2_	Sequence Duplication Levels	pass
+Tco-28_2_	Overrepresented sequences	pass
+Tco-28_2_	Adapter Content	pass
+Tco-290_1	Basic Statistics	pass
+Tco-290_1	Per base sequence quality	pass
+Tco-290_1	Per sequence quality scores	pass
+Tco-290_1	Per base sequence content	fail
+Tco-290_1	Per sequence GC content	pass
+Tco-290_1	Per base N content	pass
+Tco-290_1	Sequence Length Distribution	pass
+Tco-290_1	Sequence Duplication Levels	pass
+Tco-290_1	Overrepresented sequences	pass
+Tco-290_1	Adapter Content	pass
+Tco-290_2	Basic Statistics	pass
+Tco-290_2	Per base sequence quality	pass
+Tco-290_2	Per sequence quality scores	pass
+Tco-290_2	Per base sequence content	fail
+Tco-290_2	Per sequence GC content	pass
+Tco-290_2	Per base N content	pass
+Tco-290_2	Sequence Length Distribution	pass
+Tco-290_2	Sequence Duplication Levels	pass
+Tco-290_2	Adapter Content	pass
+Tco-362_1	Basic Statistics	pass
+Tco-362_1	Per base sequence quality	pass
+Tco-362_1	Per sequence quality scores	pass
+Tco-362_1	Per base sequence content	fail
+Tco-362_1	Per sequence GC content	pass
+Tco-362_1	Per base N content	pass
+Tco-362_1	Sequence Length Distribution	pass
+Tco-362_1	Sequence Duplication Levels	pass
+Tco-362_1	Overrepresented sequences	pass
+Tco-362_1	Adapter Content	pass
+Tco-362_2	Basic Statistics	pass
+Tco-362_2	Per base sequence quality	pass
+Tco-362_2	Per sequence quality scores	pass
+Tco-362_2	Per base sequence content	fail
+Tco-362_2	Per sequence GC content	pass
+Tco-362_2	Per base N content	pass
+Tco-362_2	Sequence Length Distribution	pass
+Tco-362_2	Sequence Duplication Levels	pass
+Tco-362_2	Adapter Content	pass
+Tco-392_1	Basic Statistics	pass
+Tco-392_1	Per base sequence quality	pass
+Tco-392_1	Per sequence quality scores	pass
+Tco-392_1	Per base sequence content	fail
+Tco-392_1	Per sequence GC content	pass
+Tco-392_1	Per base N content	pass
+Tco-392_1	Sequence Length Distribution	pass
+Tco-392_1	Sequence Duplication Levels	pass
+Tco-392_1	Overrepresented sequences	pass
+Tco-392_1	Adapter Content	pass
+Tco-392_2	Basic Statistics	pass
+Tco-392_2	Per base sequence quality	pass
+Tco-392_2	Per sequence quality scores	pass
+Tco-392_2	Per base sequence content	fail
+Tco-392_2	Per sequence GC content	pass
+Tco-392_2	Per base N content	pass
+Tco-392_2	Sequence Length Distribution	pass
+Tco-392_2	Sequence Duplication Levels	pass
+Tco-392_2	Overrepresented sequences	pass
+Tco-392_2	Adapter Content	pass
+Tco-397_1	Basic Statistics	pass
+Tco-397_1	Per base sequence quality	pass
+Tco-397_1	Per sequence quality scores	pass
+Tco-397_1	Per base sequence content	fail
+Tco-397_1	Per sequence GC content	pass
+Tco-397_1	Per base N content	pass
+Tco-397_1	Sequence Length Distribution	pass
+Tco-397_1	Sequence Duplication Levels	pass
+Tco-397_1	Adapter Content	pass
+Tco-397_2	Basic Statistics	pass
+Tco-397_2	Per base sequence quality	pass
+Tco-397_2	Per sequence quality scores	pass
+Tco-397_2	Per base sequence content	fail
+Tco-397_2	Per sequence GC content	pass
+Tco-397_2	Per base N content	pass
+Tco-397_2	Sequence Length Distribution	pass
+Tco-397_2	Sequence Duplication Levels	pass
+Tco-397_2	Adapter Content	pass
+Tco-398_1	Basic Statistics	pass
+Tco-398_1	Per base sequence quality	pass
+Tco-398_1	Per sequence quality scores	pass
+Tco-398_1	Per base sequence content	fail
+Tco-398_1	Per sequence GC content	pass
+Tco-398_1	Per base N content	pass
+Tco-398_1	Sequence Length Distribution	pass
+Tco-398_1	Sequence Duplication Levels	pass
+Tco-398_1	Overrepresented sequences	pass
+Tco-398_1	Adapter Content	pass
+Tco-398_2	Basic Statistics	pass
+Tco-398_2	Per base sequence quality	pass
+Tco-398_2	Per sequence quality scores	pass
+Tco-398_2	Per base sequence content	fail
+Tco-398_2	Per sequence GC content	pass
+Tco-398_2	Per base N content	pass
+Tco-398_2	Sequence Length Distribution	pass
+Tco-398_2	Sequence Duplication Levels	pass
+Tco-398_2	Overrepresented sequences	pass
+Tco-398_2	Adapter Content	pass
+Tco-427_1	Basic Statistics	pass
+Tco-427_1	Per base sequence quality	pass
+Tco-427_1	Per sequence quality scores	pass
+Tco-427_1	Per base sequence content	fail
+Tco-427_1	Per sequence GC content	pass
+Tco-427_1	Per base N content	pass
+Tco-427_1	Sequence Length Distribution	pass
+Tco-427_1	Sequence Duplication Levels	pass
+Tco-427_1	Overrepresented sequences	pass
+Tco-427_1	Adapter Content	pass
+Tco-427_2	Basic Statistics	pass
+Tco-427_2	Per base sequence quality	pass
+Tco-427_2	Per sequence quality scores	pass
+Tco-427_2	Per base sequence content	fail
+Tco-427_2	Per sequence GC content	pass
+Tco-427_2	Per base N content	pass
+Tco-427_2	Sequence Length Distribution	pass
+Tco-427_2	Sequence Duplication Levels	pass
+Tco-427_2	Adapter Content	pass
+Tco-444_1	Basic Statistics	pass
+Tco-444_1	Per base sequence quality	pass
+Tco-444_1	Per sequence quality scores	pass
+Tco-444_1	Per base sequence content	fail
+Tco-444_1	Per sequence GC content	pass
+Tco-444_1	Per base N content	pass
+Tco-444_1	Sequence Length Distribution	pass
+Tco-444_1	Sequence Duplication Levels	pass
+Tco-444_1	Overrepresented sequences	pass
+Tco-444_1	Adapter Content	pass
+Tco-444_2	Basic Statistics	pass
+Tco-444_2	Per base sequence quality	pass
+Tco-444_2	Per sequence quality scores	pass
+Tco-444_2	Per base sequence content	fail
+Tco-444_2	Per sequence GC content	pass
+Tco-444_2	Per base N content	pass
+Tco-444_2	Sequence Length Distribution	pass
+Tco-444_2	Sequence Duplication Levels	pass
+Tco-444_2	Overrepresented sequences	pass
+Tco-444_2	Adapter Content	pass
+Tco-467_1	Basic Statistics	pass
+Tco-467_1	Per base sequence quality	pass
+Tco-467_1	Per sequence quality scores	pass
+Tco-467_1	Per base sequence content	fail
+Tco-467_1	Per sequence GC content	pass
+Tco-467_1	Per base N content	pass
+Tco-467_1	Sequence Length Distribution	pass
+Tco-467_1	Sequence Duplication Levels	pass
+Tco-467_1	Overrepresented sequences	pass
+Tco-467_1	Adapter Content	pass
+Tco-467_2	Basic Statistics	pass
+Tco-467_2	Per base sequence quality	pass
+Tco-467_2	Per sequence quality scores	pass
+Tco-467_2	Per base sequence content	fail
+Tco-467_2	Per sequence GC content	pass
+Tco-467_2	Per base N content	pass
+Tco-467_2	Sequence Length Distribution	pass
+Tco-467_2	Sequence Duplication Levels	pass
+Tco-467_2	Overrepresented sequences	pass
+Tco-467_2	Adapter Content	pass
+Tco-480_1	Basic Statistics	pass
+Tco-480_1	Per base sequence quality	pass
+Tco-480_1	Per sequence quality scores	pass
+Tco-480_1	Per base sequence content	fail
+Tco-480_1	Per sequence GC content	pass
+Tco-480_1	Per base N content	pass
+Tco-480_1	Sequence Length Distribution	pass
+Tco-480_1	Sequence Duplication Levels	pass
+Tco-480_1	Overrepresented sequences	pass
+Tco-480_1	Adapter Content	pass
+Tco-480_2	Basic Statistics	pass
+Tco-480_2	Per base sequence quality	pass
+Tco-480_2	Per sequence quality scores	pass
+Tco-480_2	Per base sequence content	fail
+Tco-480_2	Per sequence GC content	pass
+Tco-480_2	Per base N content	pass
+Tco-480_2	Sequence Length Distribution	pass
+Tco-480_2	Sequence Duplication Levels	pass
+Tco-480_2	Overrepresented sequences	pass
+Tco-480_2	Adapter Content	pass
+Tco-483_1	Basic Statistics	pass
+Tco-483_1	Per base sequence quality	pass
+Tco-483_1	Per sequence quality scores	pass
+Tco-483_1	Per base sequence content	fail
+Tco-483_1	Per sequence GC content	pass
+Tco-483_1	Per base N content	pass
+Tco-483_1	Sequence Length Distribution	pass
+Tco-483_1	Sequence Duplication Levels	pass
+Tco-483_1	Overrepresented sequences	pass
+Tco-483_1	Adapter Content	pass
+Tco-483_2	Basic Statistics	pass
+Tco-483_2	Per base sequence quality	pass
+Tco-483_2	Per sequence quality scores	pass
+Tco-483_2	Per base sequence content	fail
+Tco-483_2	Per sequence GC content	pass
+Tco-483_2	Per base N content	pass
+Tco-483_2	Sequence Length Distribution	pass
+Tco-483_2	Sequence Duplication Levels	pass
+Tco-483_2	Overrepresented sequences	pass
+Tco-483_2	Adapter Content	pass
+Tco-486_1	Basic Statistics	pass
+Tco-486_1	Per base sequence quality	pass
+Tco-486_1	Per sequence quality scores	pass
+Tco-486_1	Per base sequence content	fail
+Tco-486_1	Per sequence GC content	pass
+Tco-486_1	Per base N content	pass
+Tco-486_1	Sequence Length Distribution	pass
+Tco-486_1	Sequence Duplication Levels	pass
+Tco-486_1	Overrepresented sequences	pass
+Tco-486_1	Adapter Content	pass
+Tco-486_2	Basic Statistics	pass
+Tco-486_2	Per base sequence quality	pass
+Tco-486_2	Per sequence quality scores	pass
+Tco-486_2	Per base sequence content	fail
+Tco-486_2	Per sequence GC content	pass
+Tco-486_2	Per base N content	pass
+Tco-486_2	Sequence Length Distribution	pass
+Tco-486_2	Sequence Duplication Levels	pass
+Tco-486_2	Overrepresented sequences	pass
+Tco-486_2	Adapter Content	pass
+Tco-503_1	Basic Statistics	pass
+Tco-503_1	Per base sequence quality	pass
+Tco-503_1	Per sequence quality scores	pass
+Tco-503_1	Per base sequence content	fail
+Tco-503_1	Per sequence GC content	pass
+Tco-503_1	Per base N content	pass
+Tco-503_1	Sequence Length Distribution	pass
+Tco-503_1	Sequence Duplication Levels	pass
+Tco-503_1	Overrepresented sequences	pass
+Tco-503_1	Adapter Content	pass
+Tco-503_2	Basic Statistics	pass
+Tco-503_2	Per base sequence quality	pass
+Tco-503_2	Per sequence quality scores	pass
+Tco-503_2	Per base sequence content	fail
+Tco-503_2	Per sequence GC content	pass
+Tco-503_2	Per base N content	pass
+Tco-503_2	Sequence Length Distribution	pass
+Tco-503_2	Sequence Duplication Levels	pass
+Tco-503_2	Overrepresented sequences	pass
+Tco-503_2	Adapter Content	pass
+Tco-522_1	Basic Statistics	pass
+Tco-522_1	Per base sequence quality	pass
+Tco-522_1	Per sequence quality scores	pass
+Tco-522_1	Per base sequence content	fail
+Tco-522_1	Per sequence GC content	pass
+Tco-522_1	Per base N content	pass
+Tco-522_1	Sequence Length Distribution	pass
+Tco-522_1	Sequence Duplication Levels	pass
+Tco-522_1	Adapter Content	pass
+Tco-522_2	Basic Statistics	pass
+Tco-522_2	Per base sequence quality	pass
+Tco-522_2	Per sequence quality scores	pass
+Tco-522_2	Per base sequence content	fail
+Tco-522_2	Per sequence GC content	pass
+Tco-522_2	Per base N content	pass
+Tco-522_2	Sequence Length Distribution	pass
+Tco-522_2	Sequence Duplication Levels	pass
+Tco-522_2	Adapter Content	pass
+Tco-549_1	Basic Statistics	pass
+Tco-549_1	Per base sequence quality	pass
+Tco-549_1	Per sequence quality scores	pass
+Tco-549_1	Per base sequence content	fail
+Tco-549_1	Per sequence GC content	pass
+Tco-549_1	Per base N content	pass
+Tco-549_1	Sequence Length Distribution	pass
+Tco-549_1	Sequence Duplication Levels	pass
+Tco-549_1	Overrepresented sequences	pass
+Tco-549_1	Adapter Content	pass
+Tco-549_2	Basic Statistics	pass
+Tco-549_2	Per base sequence quality	pass
+Tco-549_2	Per sequence quality scores	pass
+Tco-549_2	Per base sequence content	fail
+Tco-549_2	Per sequence GC content	pass
+Tco-549_2	Per base N content	pass
+Tco-549_2	Sequence Length Distribution	pass
+Tco-549_2	Sequence Duplication Levels	pass
+Tco-549_2	Overrepresented sequences	pass
+Tco-549_2	Adapter Content	pass
+Tco-580_1	Basic Statistics	pass
+Tco-580_1	Per base sequence quality	pass
+Tco-580_1	Per sequence quality scores	pass
+Tco-580_1	Per sequence GC content	pass
+Tco-580_1	Per base N content	pass
+Tco-580_1	Sequence Length Distribution	pass
+Tco-580_1	Sequence Duplication Levels	pass
+Tco-580_1	Overrepresented sequences	pass
+Tco-580_1	Adapter Content	pass
+Tco-580_2	Basic Statistics	pass
+Tco-580_2	Per base sequence quality	pass
+Tco-580_2	Per sequence quality scores	pass
+Tco-580_2	Per sequence GC content	pass
+Tco-580_2	Per base N content	pass
+Tco-580_2	Sequence Length Distribution	pass
+Tco-580_2	Sequence Duplication Levels	pass
+Tco-580_2	Overrepresented sequences	pass
+Tco-580_2	Adapter Content	pass
+Tco-582_1	Basic Statistics	pass
+Tco-582_1	Per base sequence quality	pass
+Tco-582_1	Per sequence quality scores	pass
+Tco-582_1	Per base sequence content	fail
+Tco-582_1	Per sequence GC content	pass
+Tco-582_1	Per base N content	pass
+Tco-582_1	Sequence Length Distribution	pass
+Tco-582_1	Sequence Duplication Levels	pass
+Tco-582_1	Overrepresented sequences	pass
+Tco-582_1	Adapter Content	pass
+Tco-582_2	Basic Statistics	pass
+Tco-582_2	Per base sequence quality	pass
+Tco-582_2	Per sequence quality scores	pass
+Tco-582_2	Per base sequence content	fail
+Tco-582_2	Per sequence GC content	pass
+Tco-582_2	Per base N content	pass
+Tco-582_2	Sequence Length Distribution	pass
+Tco-582_2	Sequence Duplication Levels	pass
+Tco-582_2	Overrepresented sequences	pass
+Tco-582_2	Adapter Content	pass
+Tco-596_1	Basic Statistics	pass
+Tco-596_1	Per base sequence quality	pass
+Tco-596_1	Per sequence quality scores	pass
+Tco-596_1	Per base sequence content	fail
+Tco-596_1	Per sequence GC content	pass
+Tco-596_1	Per base N content	pass
+Tco-596_1	Sequence Length Distribution	pass
+Tco-596_1	Sequence Duplication Levels	pass
+Tco-596_1	Overrepresented sequences	pass
+Tco-596_1	Adapter Content	pass
+Tco-596_2	Basic Statistics	pass
+Tco-596_2	Per base sequence quality	pass
+Tco-596_2	Per sequence quality scores	pass
+Tco-596_2	Per base sequence content	fail
+Tco-596_2	Per sequence GC content	pass
+Tco-596_2	Per base N content	pass
+Tco-596_2	Sequence Length Distribution	pass
+Tco-596_2	Sequence Duplication Levels	pass
+Tco-596_2	Adapter Content	pass
+Tco-613_1	Basic Statistics	pass
+Tco-613_1	Per base sequence quality	pass
+Tco-613_1	Per sequence quality scores	pass
+Tco-613_1	Per base sequence content	fail
+Tco-613_1	Per sequence GC content	pass
+Tco-613_1	Per base N content	pass
+Tco-613_1	Sequence Length Distribution	pass
+Tco-613_1	Sequence Duplication Levels	pass
+Tco-613_1	Adapter Content	pass
+Tco-613_2	Basic Statistics	pass
+Tco-613_2	Per base sequence quality	pass
+Tco-613_2	Per sequence quality scores	pass
+Tco-613_2	Per base sequence content	fail
+Tco-613_2	Per sequence GC content	pass
+Tco-613_2	Per base N content	pass
+Tco-613_2	Sequence Length Distribution	pass
+Tco-613_2	Sequence Duplication Levels	pass
+Tco-613_2	Overrepresented sequences	pass
+Tco-613_2	Adapter Content	pass
+Tco-622_1	Basic Statistics	pass
+Tco-622_1	Per base sequence quality	pass
+Tco-622_1	Per sequence quality scores	pass
+Tco-622_1	Per base sequence content	fail
+Tco-622_1	Per sequence GC content	pass
+Tco-622_1	Per base N content	pass
+Tco-622_1	Sequence Length Distribution	pass
+Tco-622_1	Sequence Duplication Levels	pass
+Tco-622_1	Overrepresented sequences	pass
+Tco-622_1	Adapter Content	pass
+Tco-622_2	Basic Statistics	pass
+Tco-622_2	Per base sequence quality	pass
+Tco-622_2	Per sequence quality scores	pass
+Tco-622_2	Per base sequence content	fail
+Tco-622_2	Per sequence GC content	pass
+Tco-622_2	Per base N content	pass
+Tco-622_2	Sequence Length Distribution	pass
+Tco-622_2	Sequence Duplication Levels	pass
+Tco-622_2	Overrepresented sequences	pass
+Tco-622_2	Adapter Content	pass
+Tco-633_1	Basic Statistics	pass
+Tco-633_1	Per base sequence quality	pass
+Tco-633_1	Per sequence quality scores	pass
+Tco-633_1	Per base sequence content	fail
+Tco-633_1	Per sequence GC content	pass
+Tco-633_1	Per base N content	pass
+Tco-633_1	Sequence Length Distribution	pass
+Tco-633_1	Sequence Duplication Levels	pass
+Tco-633_1	Overrepresented sequences	pass
+Tco-633_1	Adapter Content	pass
+Tco-633_2	Basic Statistics	pass
+Tco-633_2	Per base sequence quality	pass
+Tco-633_2	Per sequence quality scores	pass
+Tco-633_2	Per base sequence content	fail
+Tco-633_2	Per sequence GC content	pass
+Tco-633_2	Per base N content	pass
+Tco-633_2	Sequence Length Distribution	pass
+Tco-633_2	Sequence Duplication Levels	pass
+Tco-633_2	Overrepresented sequences	pass
+Tco-633_2	Adapter Content	pass
+Tco-674_1	Basic Statistics	pass
+Tco-674_1	Per base sequence quality	pass
+Tco-674_1	Per sequence quality scores	pass
+Tco-674_1	Per base sequence content	fail
+Tco-674_1	Per sequence GC content	pass
+Tco-674_1	Per base N content	pass
+Tco-674_1	Sequence Length Distribution	pass
+Tco-674_1	Sequence Duplication Levels	pass
+Tco-674_1	Adapter Content	pass
+Tco-674_2	Basic Statistics	pass
+Tco-674_2	Per base sequence quality	pass
+Tco-674_2	Per sequence quality scores	pass
+Tco-674_2	Per base sequence content	fail
+Tco-674_2	Per sequence GC content	pass
+Tco-674_2	Per base N content	pass
+Tco-674_2	Sequence Length Distribution	pass
+Tco-674_2	Sequence Duplication Levels	pass
+Tco-674_2	Adapter Content	pass
+Tco-702_1	Basic Statistics	pass
+Tco-702_1	Per base sequence quality	pass
+Tco-702_1	Per sequence quality scores	pass
+Tco-702_1	Per base sequence content	fail
+Tco-702_1	Per sequence GC content	pass
+Tco-702_1	Per base N content	pass
+Tco-702_1	Sequence Length Distribution	pass
+Tco-702_1	Sequence Duplication Levels	pass
+Tco-702_1	Overrepresented sequences	pass
+Tco-702_1	Adapter Content	pass
+Tco-702_2	Basic Statistics	pass
+Tco-702_2	Per base sequence quality	pass
+Tco-702_2	Per sequence quality scores	pass
+Tco-702_2	Per base sequence content	fail
+Tco-702_2	Per sequence GC content	pass
+Tco-702_2	Per base N content	pass
+Tco-702_2	Sequence Length Distribution	pass
+Tco-702_2	Sequence Duplication Levels	pass
+Tco-702_2	Overrepresented sequences	pass
+Tco-702_2	Adapter Content	pass
+Tco-719_1	Basic Statistics	pass
+Tco-719_1	Per base sequence quality	pass
+Tco-719_1	Per sequence quality scores	pass
+Tco-719_1	Per base sequence content	fail
+Tco-719_1	Per sequence GC content	pass
+Tco-719_1	Per base N content	pass
+Tco-719_1	Sequence Length Distribution	pass
+Tco-719_1	Sequence Duplication Levels	pass
+Tco-719_1	Adapter Content	pass
+Tco-719_2	Basic Statistics	pass
+Tco-719_2	Per base sequence quality	pass
+Tco-719_2	Per sequence quality scores	pass
+Tco-719_2	Per base sequence content	fail
+Tco-719_2	Per sequence GC content	pass
+Tco-719_2	Per base N content	pass
+Tco-719_2	Sequence Length Distribution	pass
+Tco-719_2	Sequence Duplication Levels	pass
+Tco-719_2	Adapter Content	pass
+Tco-752_1	Basic Statistics	pass
+Tco-752_1	Per base sequence quality	pass
+Tco-752_1	Per sequence quality scores	pass
+Tco-752_1	Per base sequence content	fail
+Tco-752_1	Per sequence GC content	pass
+Tco-752_1	Per base N content	pass
+Tco-752_1	Sequence Length Distribution	pass
+Tco-752_1	Sequence Duplication Levels	pass
+Tco-752_1	Overrepresented sequences	pass
+Tco-752_1	Adapter Content	pass
+Tco-752_2	Basic Statistics	pass
+Tco-752_2	Per base sequence quality	pass
+Tco-752_2	Per sequence quality scores	pass
+Tco-752_2	Per base sequence content	fail
+Tco-752_2	Per sequence GC content	pass
+Tco-752_2	Per base N content	pass
+Tco-752_2	Sequence Length Distribution	pass
+Tco-752_2	Sequence Duplication Levels	pass
+Tco-752_2	Overrepresented sequences	pass
+Tco-752_2	Adapter Content	pass
+Tco-754_1	Basic Statistics	pass
+Tco-754_1	Per base sequence quality	pass
+Tco-754_1	Per sequence quality scores	pass
+Tco-754_1	Per base sequence content	fail
+Tco-754_1	Per sequence GC content	pass
+Tco-754_1	Per base N content	pass
+Tco-754_1	Sequence Length Distribution	pass
+Tco-754_1	Sequence Duplication Levels	pass
+Tco-754_1	Overrepresented sequences	pass
+Tco-754_1	Adapter Content	pass
+Tco-754_2	Basic Statistics	pass
+Tco-754_2	Per base sequence quality	pass
+Tco-754_2	Per sequence quality scores	pass
+Tco-754_2	Per base sequence content	fail
+Tco-754_2	Per sequence GC content	pass
+Tco-754_2	Per base N content	pass
+Tco-754_2	Sequence Length Distribution	pass
+Tco-754_2	Sequence Duplication Levels	pass
+Tco-754_2	Overrepresented sequences	pass
+Tco-754_2	Adapter Content	pass
+Tco-757_1	Basic Statistics	pass
+Tco-757_1	Per base sequence quality	pass
+Tco-757_1	Per sequence quality scores	pass
+Tco-757_1	Per base sequence content	fail
+Tco-757_1	Per sequence GC content	pass
+Tco-757_1	Per base N content	pass
+Tco-757_1	Sequence Length Distribution	pass
+Tco-757_1	Sequence Duplication Levels	pass
+Tco-757_1	Overrepresented sequences	pass
+Tco-757_1	Adapter Content	pass
+Tco-757_2	Basic Statistics	pass
+Tco-757_2	Per base sequence quality	pass
+Tco-757_2	Per sequence quality scores	pass
+Tco-757_2	Per base sequence content	fail
+Tco-757_2	Per sequence GC content	pass
+Tco-757_2	Per base N content	pass
+Tco-757_2	Sequence Length Distribution	pass
+Tco-757_2	Sequence Duplication Levels	pass
+Tco-757_2	Overrepresented sequences	pass
+Tco-757_2	Adapter Content	pass
+Tco-76_1_	Basic Statistics	pass
+Tco-76_1_	Per base sequence quality	pass
+Tco-76_1_	Per sequence quality scores	pass
+Tco-76_1_	Per base sequence content	fail
+Tco-76_1_	Per sequence GC content	pass
+Tco-76_1_	Per base N content	pass
+Tco-76_1_	Sequence Length Distribution	pass
+Tco-76_1_	Sequence Duplication Levels	pass
+Tco-76_1_	Adapter Content	pass
+Tco-76_2_	Basic Statistics	pass
+Tco-76_2_	Per base sequence quality	pass
+Tco-76_2_	Per sequence quality scores	pass
+Tco-76_2_	Per base sequence content	fail
+Tco-76_2_	Per sequence GC content	pass
+Tco-76_2_	Per base N content	pass
+Tco-76_2_	Sequence Length Distribution	pass
+Tco-76_2_	Sequence Duplication Levels	pass
+Tco-76_2_	Adapter Content	pass
+Tco-851_1	Basic Statistics	pass
+Tco-851_1	Per base sequence quality	pass
+Tco-851_1	Per sequence quality scores	pass
+Tco-851_1	Per base sequence content	fail
+Tco-851_1	Per sequence GC content	pass
+Tco-851_1	Per base N content	pass
+Tco-851_1	Sequence Length Distribution	pass
+Tco-851_1	Sequence Duplication Levels	pass
+Tco-851_1	Adapter Content	pass
+Tco-851_2	Basic Statistics	pass
+Tco-851_2	Per base sequence quality	pass
+Tco-851_2	Per sequence quality scores	pass
+Tco-851_2	Per base sequence content	fail
+Tco-851_2	Per sequence GC content	pass
+Tco-851_2	Per base N content	pass
+Tco-851_2	Sequence Length Distribution	pass
+Tco-851_2	Sequence Duplication Levels	pass
+Tco-851_2	Overrepresented sequences	pass
+Tco-851_2	Adapter Content	pass
+Tco-859_1	Basic Statistics	pass
+Tco-859_1	Per base sequence quality	pass
+Tco-859_1	Per sequence quality scores	pass
+Tco-859_1	Per base sequence content	fail
+Tco-859_1	Per sequence GC content	pass
+Tco-859_1	Per base N content	pass
+Tco-859_1	Sequence Length Distribution	pass
+Tco-859_1	Sequence Duplication Levels	pass
+Tco-859_1	Adapter Content	pass
+Tco-859_2	Basic Statistics	pass
+Tco-859_2	Per base sequence quality	pass
+Tco-859_2	Per sequence quality scores	pass
+Tco-859_2	Per base sequence content	fail
+Tco-859_2	Per sequence GC content	pass
+Tco-859_2	Per base N content	pass
+Tco-859_2	Sequence Length Distribution	pass
+Tco-859_2	Sequence Duplication Levels	pass
+Tco-859_2	Adapter Content	pass
+Tco-86_1_	Basic Statistics	pass
+Tco-86_1_	Per base sequence quality	pass
+Tco-86_1_	Per sequence quality scores	pass
+Tco-86_1_	Per base sequence content	fail
+Tco-86_1_	Per sequence GC content	pass
+Tco-86_1_	Per base N content	pass
+Tco-86_1_	Sequence Length Distribution	pass
+Tco-86_1_	Sequence Duplication Levels	pass
+Tco-86_1_	Adapter Content	pass
+Tco-86_2_	Basic Statistics	pass
+Tco-86_2_	Per base sequence quality	pass
+Tco-86_2_	Per sequence quality scores	pass
+Tco-86_2_	Per base sequence content	fail
+Tco-86_2_	Per sequence GC content	pass
+Tco-86_2_	Per base N content	pass
+Tco-86_2_	Sequence Length Distribution	pass
+Tco-86_2_	Sequence Duplication Levels	pass
+Tco-86_2_	Adapter Content	pass
+Tco-878_1	Basic Statistics	pass
+Tco-878_1	Per base sequence quality	pass
+Tco-878_1	Per sequence quality scores	pass
+Tco-878_1	Per base sequence content	fail
+Tco-878_1	Per sequence GC content	pass
+Tco-878_1	Per base N content	pass
+Tco-878_1	Sequence Length Distribution	pass
+Tco-878_1	Sequence Duplication Levels	pass
+Tco-878_1	Adapter Content	pass
+Tco-878_2	Basic Statistics	pass
+Tco-878_2	Per base sequence quality	pass
+Tco-878_2	Per sequence quality scores	pass
+Tco-878_2	Per base sequence content	fail
+Tco-878_2	Per sequence GC content	pass
+Tco-878_2	Per base N content	pass
+Tco-878_2	Sequence Length Distribution	pass
+Tco-878_2	Sequence Duplication Levels	pass
+Tco-878_2	Adapter Content	pass
+Tco-892_1	Basic Statistics	pass
+Tco-892_1	Per base sequence quality	pass
+Tco-892_1	Per sequence quality scores	pass
+Tco-892_1	Per base sequence content	fail
+Tco-892_1	Per sequence GC content	pass
+Tco-892_1	Per base N content	pass
+Tco-892_1	Sequence Length Distribution	pass
+Tco-892_1	Sequence Duplication Levels	pass
+Tco-892_1	Adapter Content	pass
+Tco-892_2	Basic Statistics	pass
+Tco-892_2	Per base sequence quality	pass
+Tco-892_2	Per sequence quality scores	pass
+Tco-892_2	Per base sequence content	fail
+Tco-892_2	Per sequence GC content	pass
+Tco-892_2	Per base N content	pass
+Tco-892_2	Sequence Length Distribution	pass
+Tco-892_2	Sequence Duplication Levels	pass
+Tco-892_2	Adapter Content	pass
+Tco-907_1	Basic Statistics	pass
+Tco-907_1	Per base sequence quality	pass
+Tco-907_1	Per sequence quality scores	pass
+Tco-907_1	Per base sequence content	fail
+Tco-907_1	Per sequence GC content	pass
+Tco-907_1	Per base N content	pass
+Tco-907_1	Sequence Length Distribution	pass
+Tco-907_1	Sequence Duplication Levels	pass
+Tco-907_1	Overrepresented sequences	pass
+Tco-907_1	Adapter Content	pass
+Tco-907_2	Basic Statistics	pass
+Tco-907_2	Per base sequence quality	pass
+Tco-907_2	Per sequence quality scores	pass
+Tco-907_2	Per base sequence content	fail
+Tco-907_2	Per sequence GC content	pass
+Tco-907_2	Per base N content	pass
+Tco-907_2	Sequence Length Distribution	pass
+Tco-907_2	Sequence Duplication Levels	pass
+Tco-907_2	Overrepresented sequences	pass
+Tco-907_2	Adapter Content	pass
+Tco-935_1	Basic Statistics	pass
+Tco-935_1	Per base sequence quality	pass
+Tco-935_1	Per sequence quality scores	pass
+Tco-935_1	Per base sequence content	fail
+Tco-935_1	Per sequence GC content	pass
+Tco-935_1	Per base N content	pass
+Tco-935_1	Sequence Length Distribution	pass
+Tco-935_1	Sequence Duplication Levels	pass
+Tco-935_1	Overrepresented sequences	pass
+Tco-935_1	Adapter Content	pass
+Tco-935_2	Basic Statistics	pass
+Tco-935_2	Per base sequence quality	pass
+Tco-935_2	Per sequence quality scores	pass
+Tco-935_2	Per base sequence content	fail
+Tco-935_2	Per sequence GC content	pass
+Tco-935_2	Per base N content	pass
+Tco-935_2	Sequence Length Distribution	pass
+Tco-935_2	Sequence Duplication Levels	pass
+Tco-935_2	Adapter Content	pass
+Tco-949_1	Basic Statistics	pass
+Tco-949_1	Per base sequence quality	pass
+Tco-949_1	Per sequence quality scores	pass
+Tco-949_1	Per base sequence content	fail
+Tco-949_1	Per sequence GC content	pass
+Tco-949_1	Per base N content	pass
+Tco-949_1	Sequence Length Distribution	pass
+Tco-949_1	Sequence Duplication Levels	pass
+Tco-949_1	Overrepresented sequences	pass
+Tco-949_1	Adapter Content	pass
+Tco-949_2	Basic Statistics	pass
+Tco-949_2	Per base sequence quality	pass
+Tco-949_2	Per sequence quality scores	pass
+Tco-949_2	Per base sequence content	fail
+Tco-949_2	Per sequence GC content	pass
+Tco-949_2	Per base N content	pass
+Tco-949_2	Sequence Length Distribution	pass
+Tco-949_2	Sequence Duplication Levels	pass
+Tco-949_2	Overrepresented sequences	pass
+Tco-949_2	Adapter Content	pass
+Tco-960_1	Basic Statistics	pass
+Tco-960_1	Per base sequence quality	pass
+Tco-960_1	Per sequence quality scores	pass
+Tco-960_1	Per base sequence content	fail
+Tco-960_1	Per sequence GC content	pass
+Tco-960_1	Per base N content	pass
+Tco-960_1	Sequence Length Distribution	pass
+Tco-960_1	Sequence Duplication Levels	pass
+Tco-960_1	Overrepresented sequences	pass
+Tco-960_1	Adapter Content	pass
+Tco-960_2	Basic Statistics	pass
+Tco-960_2	Per base sequence quality	pass
+Tco-960_2	Per sequence quality scores	pass
+Tco-960_2	Per base sequence content	fail
+Tco-960_2	Per sequence GC content	pass
+Tco-960_2	Per base N content	pass
+Tco-960_2	Sequence Length Distribution	pass
+Tco-960_2	Sequence Duplication Levels	pass
+Tco-960_2	Adapter Content	pass
+Tco-964_1	Basic Statistics	pass
+Tco-964_1	Per base sequence quality	pass
+Tco-964_1	Per sequence quality scores	pass
+Tco-964_1	Per base sequence content	fail
+Tco-964_1	Per sequence GC content	pass
+Tco-964_1	Per base N content	pass
+Tco-964_1	Sequence Length Distribution	pass
+Tco-964_1	Sequence Duplication Levels	pass
+Tco-964_1	Overrepresented sequences	pass
+Tco-964_1	Adapter Content	pass
+Tco-964_2	Basic Statistics	pass
+Tco-964_2	Per base sequence quality	pass
+Tco-964_2	Per sequence quality scores	pass
+Tco-964_2	Per base sequence content	fail
+Tco-964_2	Per sequence GC content	pass
+Tco-964_2	Per base N content	pass
+Tco-964_2	Sequence Length Distribution	pass
+Tco-964_2	Sequence Duplication Levels	pass
+Tco-964_2	Overrepresented sequences	pass
+Tco-964_2	Adapter Content	pass
+Tco-999_1	Basic Statistics	pass
+Tco-999_1	Per base sequence quality	pass
+Tco-999_1	Per sequence quality scores	pass
+Tco-999_1	Per base sequence content	fail
+Tco-999_1	Per sequence GC content	pass
+Tco-999_1	Per base N content	pass
+Tco-999_1	Sequence Length Distribution	pass
+Tco-999_1	Sequence Duplication Levels	pass
+Tco-999_1	Adapter Content	pass
+Tco-999_2	Basic Statistics	pass
+Tco-999_2	Per base sequence quality	pass
+Tco-999_2	Per sequence quality scores	pass
+Tco-999_2	Per base sequence content	fail
+Tco-999_2	Per sequence GC content	pass
+Tco-999_2	Per base N content	pass
+Tco-999_2	Sequence Length Distribution	pass
+Tco-999_2	Sequence Duplication Levels	pass
+Tco-999_2	Adapter Content	pass

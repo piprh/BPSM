@@ -6,10 +6,12 @@ wc -l fastq/*.fq.gz
 rm -fr fastqc_out/*fastqc*
 rm -fr passfail*
 #qc check on one pair of reads
-fastqc -o fastqc_out -t 3 fastq/Tco-106*
+read -p "Which samples to read?: " file_in
+
+fastqc -o fastqc_out -t 5 fastq/${file_in}*
 
 #Unzip zipped output files
-unzip -o fastqc_out/\*.zip -d fastqc_out
+unzip -oq fastqc_out/\*.zip -d fastqc_out
 
 
  #print the pass/fail lines with file names
@@ -42,9 +44,8 @@ $(cat passfailmod.txt)" > passfailmod.txt
 
 ############################### Inspecting Problems ####################################################
 #Set/Unset variables
-unset IFS; unset failed_sample
-f_count=0; fnr=0; IFS=$'\t'; 
-declare -A failed_sample
+unset IFS
+f_count=0; fnr=0; IFS=$'\t'
 
 #Prompt failed samples
 read -p "Display failed modules? (Y/N) " confirm
@@ -58,16 +59,16 @@ then
 		#echo "Sample is  ${sample} Measure is ${measure} Status is ${status}"
 		if test "${status}" == "fail" 
 		then
-			f_count=$((f_count + 1))
-			echo "Fail number: ${f_count}" 
-			failed_sample[${f_count}]="${sample}\t${measure}\t${status}" 
+			f_count=$((f_count + 1)) 
+			echo -e "Failed module: ${sample}\t${measure}\t${status}"
 		fi
-	done < passfailmod.txt #Finished reading lines checking for "fail"
-if test ${fnr} -eq ${inputfilelength}
-then
-	for each in "${failed_sample[@]}"
-	do
-	echo -e ${failed_sample} | sort | uniq -c | head #sample x failed x modules
-done #End return failed_sample array
-fi #End echo faile_sample array
+
+	done < passfailmod.txt > failed_samples #Finished reading lines checking for "fail"
+	
+echo -e "Sample\tMeasure\tStatus 
+$(cat failed_samples)
+Total failed modules: ${f_count} of $(ls fastq | grep -c "fq.gz") samples" > failedsamplesmod.txt
+
+	cat failedsamplesmod.txt # return failed_sample array
+	rm failed_samples
 fi #End confirm by user

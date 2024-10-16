@@ -16,3 +16,907 @@ fastqc_out/Tco-106_2_fastqc/fastqc_data.txt:>>Per base N content	pass
 fastqc_out/Tco-106_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
 fastqc_out/Tco-106_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
 fastqc_out/Tco-106_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-122_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-122_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-122_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-122_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-122_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-122_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-122_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-122_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-122_1_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-122_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-122_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-122_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-122_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-122_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-122_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-122_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-122_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-122_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-122_2_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-122_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-159_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-159_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-159_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-159_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-159_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-159_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-159_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-159_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-159_1_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-159_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-159_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-159_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-159_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-159_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-159_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-159_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-159_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-159_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-159_2_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-159_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-160_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-160_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-160_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-160_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-160_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-160_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-160_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-160_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-160_1_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-160_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-160_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-160_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-160_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-160_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-160_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-160_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-160_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-160_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-160_2_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-160_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-17_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-17_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-17_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-17_1_fastqc/fastqc_data.txt:>>Per base sequence content	pass
+fastqc_out/Tco-17_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-17_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-17_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-17_1_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-17_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-17_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-17_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-17_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-17_2_fastqc/fastqc_data.txt:>>Per base sequence content	pass
+fastqc_out/Tco-17_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-17_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-17_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-17_2_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-17_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-182_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-182_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-182_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-182_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-182_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-182_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-182_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-182_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-182_1_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-182_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-182_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-182_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-182_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-182_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-182_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-182_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-182_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-182_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-182_2_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-182_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-21_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-21_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-21_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-21_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-21_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-21_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-21_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-21_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-21_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-21_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-21_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-21_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-21_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-21_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-21_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-21_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-21_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-21_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-229_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-229_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-229_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-229_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-229_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-229_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-229_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-229_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-229_1_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-229_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-229_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-229_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-229_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-229_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-229_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-229_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-229_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-229_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-229_2_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-229_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-230_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-230_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-230_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-230_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-230_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-230_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-230_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-230_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-230_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-230_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-230_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-230_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-230_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-230_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-230_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-230_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-230_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-230_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-28_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-28_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-28_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-28_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-28_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-28_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-28_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-28_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-28_1_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-28_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-28_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-28_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-28_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-28_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-28_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-28_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-28_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-28_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-28_2_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-28_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-290_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-290_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-290_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-290_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-290_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-290_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-290_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-290_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-290_1_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-290_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-290_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-290_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-290_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-290_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-290_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-290_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-290_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-290_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-290_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-362_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-362_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-362_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-362_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-362_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-362_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-362_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-362_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-362_1_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-362_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-362_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-362_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-362_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-362_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-362_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-362_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-362_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-362_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-362_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-392_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-392_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-392_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-392_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-392_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-392_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-392_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-392_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-392_1_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-392_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-392_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-392_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-392_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-392_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-392_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-392_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-392_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-392_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-392_2_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-392_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-397_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-397_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-397_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-397_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-397_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-397_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-397_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-397_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-397_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-397_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-397_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-397_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-397_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-397_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-397_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-397_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-397_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-397_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-398_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-398_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-398_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-398_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-398_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-398_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-398_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-398_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-398_1_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-398_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-398_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-398_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-398_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-398_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-398_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-398_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-398_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-398_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-398_2_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-398_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-427_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-427_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-427_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-427_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-427_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-427_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-427_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-427_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-427_1_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-427_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-427_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-427_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-427_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-427_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-427_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-427_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-427_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-427_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-427_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-444_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-444_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-444_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-444_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-444_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-444_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-444_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-444_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-444_1_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-444_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-444_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-444_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-444_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-444_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-444_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-444_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-444_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-444_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-444_2_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-444_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-467_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-467_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-467_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-467_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-467_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-467_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-467_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-467_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-467_1_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-467_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-467_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-467_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-467_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-467_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-467_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-467_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-467_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-467_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-467_2_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-467_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-480_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-480_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-480_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-480_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-480_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-480_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-480_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-480_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-480_1_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-480_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-480_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-480_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-480_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-480_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-480_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-480_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-480_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-480_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-480_2_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-480_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-483_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-483_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-483_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-483_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-483_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-483_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-483_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-483_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-483_1_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-483_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-483_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-483_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-483_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-483_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-483_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-483_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-483_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-483_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-483_2_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-483_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-486_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-486_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-486_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-486_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-486_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-486_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-486_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-486_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-486_1_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-486_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-486_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-486_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-486_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-486_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-486_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-486_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-486_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-486_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-486_2_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-486_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-503_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-503_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-503_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-503_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-503_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-503_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-503_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-503_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-503_1_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-503_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-503_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-503_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-503_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-503_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-503_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-503_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-503_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-503_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-503_2_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-503_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-522_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-522_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-522_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-522_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-522_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-522_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-522_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-522_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-522_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-522_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-522_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-522_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-522_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-522_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-522_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-522_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-522_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-522_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-549_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-549_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-549_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-549_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-549_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-549_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-549_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-549_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-549_1_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-549_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-549_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-549_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-549_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-549_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-549_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-549_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-549_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-549_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-549_2_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-549_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-580_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-580_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-580_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-580_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-580_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-580_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-580_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-580_1_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-580_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-580_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-580_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-580_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-580_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-580_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-580_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-580_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-580_2_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-580_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-582_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-582_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-582_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-582_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-582_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-582_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-582_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-582_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-582_1_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-582_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-582_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-582_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-582_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-582_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-582_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-582_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-582_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-582_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-582_2_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-582_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-596_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-596_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-596_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-596_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-596_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-596_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-596_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-596_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-596_1_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-596_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-596_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-596_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-596_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-596_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-596_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-596_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-596_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-596_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-596_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-613_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-613_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-613_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-613_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-613_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-613_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-613_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-613_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-613_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-613_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-613_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-613_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-613_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-613_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-613_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-613_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-613_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-613_2_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-613_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-622_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-622_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-622_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-622_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-622_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-622_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-622_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-622_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-622_1_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-622_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-622_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-622_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-622_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-622_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-622_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-622_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-622_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-622_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-622_2_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-622_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-633_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-633_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-633_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-633_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-633_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-633_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-633_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-633_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-633_1_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-633_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-633_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-633_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-633_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-633_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-633_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-633_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-633_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-633_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-633_2_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-633_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-674_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-674_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-674_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-674_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-674_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-674_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-674_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-674_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-674_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-674_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-674_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-674_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-674_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-674_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-674_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-674_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-674_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-674_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-702_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-702_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-702_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-702_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-702_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-702_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-702_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-702_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-702_1_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-702_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-702_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-702_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-702_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-702_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-702_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-702_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-702_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-702_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-702_2_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-702_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-719_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-719_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-719_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-719_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-719_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-719_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-719_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-719_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-719_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-719_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-719_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-719_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-719_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-719_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-719_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-719_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-719_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-719_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-752_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-752_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-752_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-752_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-752_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-752_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-752_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-752_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-752_1_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-752_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-752_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-752_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-752_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-752_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-752_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-752_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-752_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-752_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-752_2_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-752_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-754_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-754_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-754_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-754_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-754_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-754_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-754_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-754_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-754_1_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-754_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-754_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-754_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-754_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-754_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-754_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-754_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-754_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-754_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-754_2_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-754_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-757_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-757_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-757_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-757_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-757_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-757_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-757_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-757_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-757_1_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-757_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-757_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-757_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-757_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-757_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-757_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-757_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-757_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-757_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-757_2_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-757_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-76_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-76_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-76_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-76_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-76_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-76_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-76_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-76_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-76_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-76_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-76_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-76_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-76_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-76_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-76_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-76_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-76_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-76_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-851_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-851_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-851_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-851_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-851_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-851_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-851_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-851_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-851_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-851_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-851_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-851_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-851_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-851_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-851_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-851_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-851_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-851_2_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-851_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-859_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-859_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-859_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-859_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-859_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-859_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-859_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-859_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-859_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-859_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-859_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-859_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-859_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-859_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-859_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-859_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-859_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-859_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-86_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-86_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-86_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-86_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-86_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-86_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-86_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-86_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-86_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-86_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-86_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-86_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-86_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-86_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-86_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-86_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-86_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-86_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-878_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-878_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-878_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-878_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-878_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-878_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-878_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-878_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-878_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-878_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-878_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-878_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-878_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-878_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-878_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-878_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-878_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-878_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-892_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-892_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-892_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-892_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-892_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-892_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-892_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-892_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-892_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-892_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-892_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-892_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-892_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-892_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-892_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-892_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-892_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-892_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-907_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-907_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-907_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-907_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-907_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-907_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-907_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-907_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-907_1_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-907_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-907_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-907_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-907_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-907_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-907_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-907_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-907_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-907_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-907_2_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-907_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-935_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-935_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-935_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-935_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-935_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-935_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-935_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-935_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-935_1_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-935_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-935_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-935_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-935_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-935_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-935_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-935_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-935_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-935_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-935_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-949_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-949_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-949_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-949_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-949_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-949_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-949_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-949_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-949_1_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-949_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-949_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-949_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-949_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-949_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-949_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-949_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-949_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-949_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-949_2_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-949_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-960_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-960_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-960_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-960_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-960_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-960_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-960_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-960_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-960_1_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-960_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-960_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-960_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-960_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-960_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-960_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-960_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-960_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-960_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-960_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-964_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-964_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-964_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-964_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-964_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-964_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-964_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-964_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-964_1_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-964_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-964_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-964_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-964_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-964_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-964_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-964_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-964_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-964_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-964_2_fastqc/fastqc_data.txt:>>Overrepresented sequences	pass
+fastqc_out/Tco-964_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-999_1_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-999_1_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-999_1_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-999_1_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-999_1_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-999_1_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-999_1_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-999_1_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-999_1_fastqc/fastqc_data.txt:>>Adapter Content	pass
+fastqc_out/Tco-999_2_fastqc/fastqc_data.txt:>>Basic Statistics	pass
+fastqc_out/Tco-999_2_fastqc/fastqc_data.txt:>>Per base sequence quality	pass
+fastqc_out/Tco-999_2_fastqc/fastqc_data.txt:>>Per sequence quality scores	pass
+fastqc_out/Tco-999_2_fastqc/fastqc_data.txt:>>Per base sequence content	fail
+fastqc_out/Tco-999_2_fastqc/fastqc_data.txt:>>Per sequence GC content	pass
+fastqc_out/Tco-999_2_fastqc/fastqc_data.txt:>>Per base N content	pass
+fastqc_out/Tco-999_2_fastqc/fastqc_data.txt:>>Sequence Length Distribution	pass
+fastqc_out/Tco-999_2_fastqc/fastqc_data.txt:>>Sequence Duplication Levels	pass
+fastqc_out/Tco-999_2_fastqc/fastqc_data.txt:>>Adapter Content	pass
